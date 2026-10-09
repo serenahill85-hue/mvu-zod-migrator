@@ -1,0 +1,47 @@
+{
+  "version": "0.5.1",
+  "source": [
+    {
+      "path": "src/core.mjs",
+      "sha256": "1eea01ba5755cd02d4655116094c4c5f2445bb3ca949fdea1416ad613864b92b"
+    },
+    {
+      "path": "src/chat-import.mjs",
+      "sha256": "3cd112f11671cc012f19803b78e65a285787527da7e2b6217dd1ab1bd8eb6a22"
+    },
+    {
+      "path": "src/vendor/acorn.mjs",
+      "sha256": "b4c8c70200e72bae33cf1085e0ecb1e792c1b6924ed50cab817caf14f51bb249"
+    },
+    {
+      "path": "src/schema.mjs",
+      "sha256": "c00e642bee0cf2ef17fd9508bba59e2467ca468bee666512a49cbd9ff86e9ac2"
+    },
+    {
+      "path": "src/host.mjs",
+      "sha256": "f0ffbc2f9ee183e1e1e74af4e8ada983dc89cf1202383ada00f8516ccc384192"
+    },
+    {
+      "path": "src/drag.mjs",
+      "sha256": "5d135001e5018fd4490adc6bd1ce61584818d45ca278ee592c3f4131b56b2207"
+    },
+    {
+      "path": "src/ui.mjs",
+      "sha256": "eac70887071648b46ca971c9ca89c1c3c4f0ecafcf78032487df5a8b8001f0f1"
+    },
+    {
+      "path": "src/worldbook.mjs",
+      "sha256": "d65ca9f6ebe2a930067ab8af03e04168b65aa2cf01e502c0bc6f9537dcfe5bc6"
+    },
+    {
+      "path": "src/main.mjs",
+      "sha256": "665f77f477cedb4462d889c0f1f6e0de5513abf2e93c076576ec50796d1eeb87"
+    }
+  ],
+  "scriptSha256": "3663851017bf31c48f584ecc5974b12b4ad9e44bd2c32b6564fa3e410ff7bf00",
+  "runtime": {
+    "tavernHelper": "4.11.3 source baseline; runtime capability detection",
+    "realHost": "pending",
+    "model": "pending"
+  }
+}

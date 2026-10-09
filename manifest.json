@@ -1,0 +1,15 @@
+{
+  "display_name": "续章 · MVU Zod 存档迁移助手",
+  "loading_order": 110,
+  "js": "extension.js",
+  "author": "serenahill85-hue",
+  "version": "0.5.1",
+  "homePage": "https://github.com/serenahill85-hue/mvu-zod-migrator",
+  "auto_update": false,
+  "minimum_client_version": "1.19.0",
+  "hooks": {
+    "activate": "activate",
+    "disable": "deactivate",
+    "delete": "deactivate"
+  }
+}

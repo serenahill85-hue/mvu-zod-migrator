@@ -1,0 +1,13 @@
+{
+  "name": "mvu-zod-migrator",
+  "version": "0.5.1",
+  "private": true,
+  "type": "module",
+  "description": "AI-assisted MVU Zod save migration as an importable Tavern Helper script",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "node tools/build.mjs",
+    "check": "node tools/build.mjs --check"
+  },
+  "engines": { "node": ">=20" }
+}
